@@ -35,6 +35,8 @@ fine. Include a hand-off note (PR description or `NOTES.md`) with:
 
 Aim for **max 2 hours**. Time-box yourself.
 
+#### PS: If you feel inspired to expand on the app, feel free to do so. However, this will not be expected from you, and it will not count negatively if you don't.
+
 ## Use AI
 
 We want you to use AI assistance for this — Copilot, Claude, ChatGPT,
